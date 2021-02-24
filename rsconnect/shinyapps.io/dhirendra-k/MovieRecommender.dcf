@@ -1,0 +1,12 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: dhirendra-k
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3381900
+bundleId: 3990449
+url: https://dhirendra-k.shinyapps.io/MovieRecommender/
+when: 1608005910.68832
+asMultiple: FALSE
+asStatic: FALSE
